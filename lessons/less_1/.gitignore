@@ -12,19 +12,6 @@
 .swiftpm/
 migrate_working_dir/
 
-#--------------------------------------
-# Flutter
-**/build/
-**/.dart_tool/
-**/.packages
-**/pubspec.lock
-**/ios/
-**/android/
-
-# VS Code
-.vscode/
-# -------------------------------------
-
 # IntelliJ related
 *.iml
 *.ipr
